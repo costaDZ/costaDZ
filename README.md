@@ -1,13 +1,13 @@
 <h3 title="hehehe"> Hey 👋, I'm Nadjem eddine!</h3>
 
-<a href="https://www.linkedin.com/in/nadjem-eddine-aissa-a68bb21b0/">
+<a href="https://www.linkedin.com/in/nadjem-eddine-aissa-a68bb21b0/" target="_blank">
   <img align="left" alt="nadjem-eddine LinkedIn" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://www.facebook.com/amine.costa.10/">
+<a href="https://www.facebook.com/amine.costa.10/" target="_blank">
   <img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
 </a>
-<a href="https://nadjemou.netlify.app/">
+<a href="https://nadjemou.netlify.app/" target="_blank">
    <img align="left" alt="Facebook" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/notion.svg" />
 </a>
 
@@ -25,7 +25,7 @@ A **FRONT END WEB DEVELOPER** ***Enthusiast*** 🚀.
 - 👨🏽‍💻 I’m specialize in website and app design and often establishing and optimizing a site’s function and aesthetics.
 - 🌱 I programme craft clean-looking user interfaces, map out site navigation, optimize web pages for speed and scalability, and build reusable code modules that can be applied to multiple projects across a website.
 - 🤔 My interest lies in front end web development.
-- 💬 Visit my website ==> <a style="color:red;" href="https://nadjemou.netlify.app/">Click</a>
+- 💬 Visit my website ==> <a style="color:red;" target="_blank" href="https://nadjemou.netlify.app/">Click</a>
 - 📫 Email me at [nadgmo@gmail.com](mailto:nadgmo@gmail.com).
 
 
