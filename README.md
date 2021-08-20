@@ -18,7 +18,7 @@
 A **FRONT END WEB DEVELOPER** ***Enthusiast*** 🚀.
  
 
-  <img align="right" alt="GIF" width="300px" style="border-radius:4px;"   src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <img align="right" alt="GIF" width="300px" style="borderRadius:40%;" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"/>
 
 **About Me!**
 
