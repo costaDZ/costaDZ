@@ -22,8 +22,8 @@ A **FRONT END WEB DEVELOPER** ***Enthusiast*** 🚀.
 
 **About Me!**
 
-- 👨🏽‍💻 I’m specialize in website and app design and often establishing and optimizing a site’s function and aesthetics.
-- 🌱 I programme craft clean-looking user interfaces, map out site navigation, optimize web pages for speed and scalability, and build reusable code modules that can be applied to multiple projects across a website.
+- 👨🏽‍💻 I’m specialize in website and cross platform mobile apps by using React.js and React native.
+- 🌱 I enjoy creating things that live on the internet, whether that be websites, applications, or anything in between ..
 - 🤔 My interest lies in front end web development.
 - 💬 Visit my website ==> <a style="color:red;" target="_blank" href="https://nadjemou.netlify.app/">Click</a>
 - 📫 Email me at [nadgmo@gmail.com](mailto:nadgmo@gmail.com).
